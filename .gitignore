@@ -31,3 +31,9 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# Mac open Finder makdir .DS_Store
+.DS_Store
+**/.DS_Store
+.DS_Store?
+
