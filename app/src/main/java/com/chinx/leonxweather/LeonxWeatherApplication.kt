@@ -10,7 +10,7 @@ class LeonxWeatherApplication: Application() {
     companion object {
         @SuppressLint("StaticFieldLeak")
         lateinit var context: Context
-        const val TOKEN = "5nQo47XxDqIQHyzx"
+        const val TOKEN = "nAG9OssfhDwniHQ2" // chin_lg7@qq.com → "5nQo47XxDqIQHyzx"
     }
 
     override fun onCreate() {
